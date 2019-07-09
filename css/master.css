@@ -2,3 +2,9 @@ body{
   background: blue;
   color: white;
 }
+ .hero{
+   width: 600px;
+   text-align: center;
+   border: 1px solid black;
+   margin: 0 auto;
+ }
