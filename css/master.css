@@ -9,6 +9,16 @@ h1{
    display: flex;
    align-items: center;
  }
+
+ .imagen_container{
+   display: flex;
+   align-items: center;
+ }
+
+ .imagenes_header{
+   width: 80px;
+   height: 60px;
+ }
  .hero{
    text-align: center;
    margin: 0 auto;
@@ -20,7 +30,7 @@ h1{
   padding-top: 15px;
 }
  header{
-   background: red;
+   background: gray;
    margin: 0 auto;
    box-shadow: 0 2px 20px 0 blue;
    display: flex;
@@ -28,6 +38,7 @@ h1{
    align-items: center;
    position: relative;
    height: 80px;
+   color: white;
  }
 
 header a{
